@@ -1,6 +1,7 @@
 # multi_agent_queue_action_response
-For Study Agent Queue responses (Multiple Simultaneous)
 
+For Study Agent Queue responses (Multiple Simultaneous), see the previous project for the same codes I implement in multiple agent simultaneous as examples.
+https://github.com/jkaewprateep/agent_queue_action_response.
 
 ## Files and Directory ##
 
