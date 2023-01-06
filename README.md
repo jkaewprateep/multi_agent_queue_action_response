@@ -7,6 +7,7 @@ For Study Agent Queue responses (Multiple Simultaneous)
 | File Name | Description |
 |--- | --- |
 | sample.py | sample codes |
+| Multi-Agents..gif | Easy implement multi-agents |
 | Snake_stage_rims_start_learn_01.gif | result from previous method v.s. random |
 | Snank_AI_vs_Random_10_minutes.gif | result from previous method v.s. random |
 | Street Fighters as sample.gif | AI Learning, single simultaneous |
@@ -23,9 +24,7 @@ For Study Agent Queue responses (Multiple Simultaneous)
 
 The AI fast learning away from invalids actions within 1 minute ( learning time randoms )
 
-pending
-
-![Stateless conditions](https://github.com/jkaewprateep/agent_queue_action_response./blob/main/Snake_1_minute_learning.gif "Stateless conditions")
+![Stateless conditions](https://github.com/jkaewprateep/multi_agent_queue_action_response/blob/main/Multi-Agents..gif "Stateless conditions")
 
 #### Randoms play ####
 
